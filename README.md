@@ -108,7 +108,7 @@ expense-manager/
 
 ---
 
-## 🖼️ Screenshots (optional)  
+## 🖼️ Screenshots (Will Add Later)
 
 - **Login Page**  
 - **Dashboard with chart**  
